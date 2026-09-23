@@ -21,10 +21,16 @@ La capa de transcripción del pipeline anterior. Whisper corriendo local sobre A
 con perfiles de vocabulario por ramo. El audio nunca sale del equipo.
 `Python` `Whisper MLX`
 
+**[Bot-finanzas-personales](https://github.com/rodrigomunozcha/Bot-finanzas-personales)**
+Clasifica cada gasto por Telegram leyendo los correos de aviso del banco. Aprende de los
+comercios que se repiten y deja de preguntar, cierra la semana con un informe y respalda
+la planilla solo. Corre gratis en Google Apps Script, sin servidor y sin API con tarifa.
+`Google Apps Script` `Telegram` `Google Sheets`
+
 ### En construcción
 
 **control-de-gestion-personal** - Panel de presupuesto contra real sobre mis propios datos de
-gasto, que captura un bot que escribí aparte. Modelo dimensional en SQL, presupuesto en Excel
+gasto, los que captura el bot de arriba. Modelo dimensional en SQL, presupuesto en Excel
 y el panel en Power BI. Septiembre y octubre de 2026.
 
 ### Herramientas
