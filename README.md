@@ -13,7 +13,8 @@ salgan del equipo.
 **[de-grabacion-a-conocimiento](https://github.com/rodrigomunozcha/de-grabacion-a-conocimiento)**
 Convierte la grabación de una clase en material de estudio completo. Transcribe, destila las
 ideas, revisa su propio trabajo con un segundo agente independiente que busca contenido sin
-respaldo, y entrega un .docx maquetado más flashcards de Anki.
+respaldo, y entrega las notas en Obsidian más una hoja de repaso tipo cheatsheet: HTML
+autocontenido, Solarized oscuro, fórmulas en MathML y la procedencia marcada en cada afirmación.
 `Python` `Claude Agent SDK` `Whisper`
 
 **[transcriptotem](https://github.com/rodrigomunozcha/transcriptotem)**
